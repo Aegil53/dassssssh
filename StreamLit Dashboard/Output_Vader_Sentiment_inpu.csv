@@ -1,0 +1,3 @@
+Sentence ID;Sentence;Sentiment;Sentiment Label;Valence;Arousal
+1;"['``', 'i', 'feel', 'bad', 'and', 'depressed', ""''""]";-0.7783;negative;-0.9;-0.1
+2;"['``', 'happy', 'and', 'serene', ""''""]";0.7717;positive;-0.9;-0.1
